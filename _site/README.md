@@ -1,2 +1,0 @@
-# stefanhgm.github.io
-Webpage

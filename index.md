@@ -44,26 +44,26 @@ Papers I have been involved in:
 </p>
 <ul style="font-size: 12px; margin-left:14px">
   <li>
-  <a href="http://drops.dagstuhl.de/opus/volltexte/2016/6575/pdf/LIPIcs-CSL-2016-35.pdf">Counting in Team Semantics - CSL 2016</a>
+  Reproducible Survival Prediction with SEER Cancer Data - MLHC 2018
   </li>
   <li>
-  <a href="https://pdfs.semanticscholar.org/3216/4a7345d28b3392ffe92883af58d8321d3bd7.pdf">Inverted HMM - a Proof of Concept - NIPS 2016</a>
+  A Web Service to Suggest Semantic Codes Based on the MDM-Portal - GMDS 2018
+  </li>
+  <li>
+  <a href="http://ebooks.iospress.nl/publication/48788">Standardising the Development of ODM Converters: The ODMToolBox - MIE 2018</a>
+  </li>
+  <li>
+  <a href="http://ebooks.iospress.nl/publication/47514">Automated Transformation of CDISC ODM to OpenClinica - GMDS 2017</a>
   </li>
   <li>
   <a href="http://ebooks.iospress.nl/publication/46464">Automatic conversion of metadata from the study of health in Pomerania
 to ODM - eHealth 2017</a>
   </li>
   <li>
-  <a href="http://ebooks.iospress.nl/publication/47514">Automated Transformation of CDISC ODM to OpenClinica - GMDS 2017</a>
+  <a href="https://pdfs.semanticscholar.org/3216/4a7345d28b3392ffe92883af58d8321d3bd7.pdf">Inverted HMM - a Proof of Concept - NIPS 2016</a>
   </li>
   <li>
-  <a href="http://ebooks.iospress.nl/publication/48788">Standardising the Development of ODM Converters: The ODMToolBox - MIE 2018</a>
-  </li>
-  <li>
-  A Web Service to Suggest Semantic Codes Based on the MDM-Portal - GMDS 2018
-  </li>
-  <li>
-  Reproducible Survival Prediction with SEER Cancer Data - MLHC 2018
+  <a href="http://drops.dagstuhl.de/opus/volltexte/2016/6575/pdf/LIPIcs-CSL-2016-35.pdf">Counting in Team Semantics - CSL 2016</a>
   </li>
 </ul> 
 </div>
