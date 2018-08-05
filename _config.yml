@@ -30,6 +30,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Generate sitemap.xml
+url: "http://shegselmann.com"
+plugins:
+  - jekyll-sitemap
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

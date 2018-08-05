@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # E-Mail protection
 gem 'jekyll-email-protect'
+
+# Generate sitemap.xml
+gem 'jekyll-sitemap'
