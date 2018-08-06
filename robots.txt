@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://www.shegselmann.com/sitemap.xml
+Sitemap: http://shegselmann.com/sitemap.xml
