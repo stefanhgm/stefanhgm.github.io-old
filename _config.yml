@@ -16,7 +16,7 @@
 title: Stefan Hegselmann
 email: stefan@hegselmann.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Profile of Stefan Hegselmann. Mostly information on my research activies and personal interests.
+  The personal profile of Stefan Hegselmann. This page contains mostly information on my research activies and personal interests.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  stefanhgm

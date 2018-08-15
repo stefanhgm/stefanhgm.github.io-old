@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<div style="width: 72%; float: left;">
+<div style="width: 74%; float: left;">
 
 <p style="font-size: 15px;">
 This website serves as my personal profile.
@@ -44,10 +44,13 @@ Papers I have been involved in:
 </p>
 <ul style="font-size: 12px; margin-left:14px">
   <li>
-  Reproducible Survival Prediction with SEER Cancer Data - MLHC 2018
+  A Web Service to Suggest Semantic Codes Based on the MDM-Portal - GMDS 2018
   </li>
   <li>
-  A Web Service to Suggest Semantic Codes Based on the MDM-Portal - GMDS 2018
+  <a href="https://www.mlforhc.org/s/11.pdf">Reproducible Survival Prediction with SEER Cancer Data - MLHC 2018</a>
+  </li>
+  <li>
+  <a href="https://www.dovepress.com/articles.php?article_id=39769">CDEGenerator: an online platform to learn from existing data models to build model registries</a>
   </li>
   <li>
   <a href="http://ebooks.iospress.nl/publication/48788">Standardising the Development of ODM Converters: The ODMToolBox - MIE 2018</a>
@@ -68,4 +71,4 @@ to ODM - eHealth 2017</a>
 </ul> 
 </div>
 
-<img style="float: right;" src="/assets/profile-picture.png" width="23%">
+<img style="float: right;" src="/assets/profile-picture.jpg" width="21%">
