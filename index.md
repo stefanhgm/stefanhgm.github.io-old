@@ -28,8 +28,8 @@ master thesis deals with automatic speech recognition.
 </p>
 
 <p style="font-size: 15px;">
-After I finished my degree I started a PhD at the Institute of Medical
-Informatics in Münster. There I redeveloped the
+After I finished my degree I started a PhD at the <a href="https://www.medizin.uni-muenster.de/imi/das-institut/team/arbeitsgruppe-health-informatics/stefan-hegselmann-m-sc/">Institute of Medical Informatics</a> in Münster.
+There I redeveloped the
 <a href="https://medical-data-models.org/">MDM-Portal</a>, a research
 infrastructure to share clinical metadata. I got also involved in some
 further research regarding interoperability and reuse of metadata. My
@@ -44,7 +44,7 @@ Papers I have been involved in:
 </p>
 <ul style="font-size: 12px; margin-left:14px">
   <li>
-  A Web Service to Suggest Semantic Codes Based on the MDM-Portal - GMDS 2018
+  <a href="http://ebooks.iospress.nl/publication/50019">A Web Service to Suggest Semantic Codes Based on the MDM-Portal - GMDS 2018</a>
   </li>
   <li>
   <a href="https://www.mlforhc.org/s/11.pdf">Reproducible Survival Prediction with SEER Cancer Data - MLHC 2018</a>
