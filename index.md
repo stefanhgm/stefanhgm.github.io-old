@@ -12,7 +12,7 @@ layout: default
 </p>
 
 <p style="font-size: 15px;">
-  Before moving to Münster for my PhD and medical studies,  I obtained my master's degree in computer science from the RWTH Aachen with semesters abroad at the University of Gothenburg and UC Berkeley. In my bachelor, I was interested in theoretical computer science and wrote my <a href="http://drops.dagstuhl.de/opus/volltexte/2016/6575/pdf/LIPIcs-CSL-2016-35.pdf">thesis</a> in mathematical logic. During my master, I shifted my focus to artificial intelligence and machine learning. My <a href="https://pdfs.semanticscholar.org/3216/4a7345d28b3392ffe92883af58d8321d3bd7.pdf">master thesis</a> dealt with automatic speech recognition.
+  Before moving to Münster for my PhD and medical studies,  I obtained my master's degree in computer science from the RWTH Aachen with semesters abroad at the University of Gothenburg and UC Berkeley. In my bachelor, I was interested in theoretical computer science and wrote my <a href="http://drops.dagstuhl.de/opus/volltexte/2016/6575/pdf/LIPIcs-CSL-2016-35.pdf">thesis</a> in mathematical logic. During my master, I shifted my focus to artificial intelligence and machine learning. My <a href="https://pdfs.semanticscholar.org/3216/4a7345d28b3392ffe92883af58d8321d3bd7.pdf">master's thesis</a> dealt with automatic speech recognition.
 </p>
 </div>
 
