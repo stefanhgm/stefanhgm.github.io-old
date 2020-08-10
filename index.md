@@ -34,6 +34,8 @@ Stefan Hegselmann, Thomas Volkert, Hendrik Ohlenburg, Antje Gottschalk, Martin D
 <br>
 <u>Conference</u>: Machine Learning for Healthcare (MLHC) 2020
 <br>
+<u>Video</u>: <a href="https://www.youtube.com/watch?v=YuAl4rS6EzE">Spotlight presentation</a>
+<br>
 <u>Code</u>: <a href="https://zenodo.org/record/3597992">Zenodo repository</a>
 <br>
 <u>Explanation</u>: Generalized Additive Models with Interactions are transparent models consisting of one- and two-dimensional risk functions that can be visualized and assessed by human practitioners. This allows a model validation, which is useful in sensitive domains such as healthcare. In this study, we evaluated their interpretability with doctors to determine their clincal usefulness. The resuluts suggested that doctors can correctly interpret risk functions and also feel confident to do so. However, the evaluation also identified several interpretability issues and it showed that interpretability depends on the complexity of risk functions.
