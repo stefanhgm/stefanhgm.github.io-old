@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 # Generate sitemap.xml
-url: "http://shegselmann.com"
+url: "https://shegselmann.com"
 plugins:
   - jekyll-sitemap
 
