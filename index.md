@@ -42,13 +42,13 @@ Stefan Hegselmann, Thomas Volkert, Hendrik Ohlenburg, Antje Gottschalk, Martin D
 </p>
 
 <p style="font-size: 15px;">
-<a style="font-size: 16px;" href="#">Pragmatic MDR: A Metadata Repository with Bottom-Up Standardization of Medical Metadata through Reuse</a>
+<a style="font-size: 16px;" href="https://doi.org/10.1186/s12911-021-01524-8">Pragmatic MDR: A Metadata Repository with Bottom-Up Standardization of Medical Metadata through Reuse</a>
 <br>
 Stefan Hegselmann, Michael Storck, Sophia Gessner, Philipp Neuhaus, Julian Varghese, Philipp Bruland, Alexandra Meidt, Cornelia Mertens, Sarah Riepenhausen, Sonja Baier, Benedikt Stöcker, Jörg Henke, Carsten Oliver Schmid, Martin Dugas
 <br>
-<u>Journal</u>: currently under review
+<u>Journal</u>: BMC Medical Informatics and Decision Making
 <br>
-<u>Explanation</u>: (will be added later)
+<u>Explanation</u>: Many institutions use different documentation (metadata) to collect medical data, e.g. one hospital collects blood pressure as an integer in mmHg and another as free text allowing much more variability. This leads to incompatible data elements that cannot be easily combined. One approach to standardize and re-use data elements are so-called metadata repositories (MDRs). Usually, an expert committee determines the content of an MDR in a top-down fashion, increasing the workload and introducing a potential bias. In this work, we explore an alternative and fully automatic approach called pragmatic MDR that is based on a large amount of real-world documentation and ranks definitions according to their frequency (bottom-up standardization). We implement a prototype and perform experiments with data from the MDM Portal. The results showed that bottom-up standards only emerged for less complex medical concepts (lab values and vital signs) and two medical data managers assessed the overall quality of the proposed data elements as good.
 </p>
 
 <p style="font-size: 15px;">
